@@ -1,0 +1,3 @@
+--To who ever is handling the maps, make sure Enemy Spawn and Player Spawn has a transparency of 1
+--You may ungroup it first then group it later
+--Thank youuu
