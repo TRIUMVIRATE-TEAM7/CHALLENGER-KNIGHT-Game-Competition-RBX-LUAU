@@ -1,3 +1,0 @@
---To who ever is handling the maps
---You may ungroup it first then group it later after you finish, and PLEASE contact me or the GC if you want to go out of bounds with ur map
---Thank youuu
