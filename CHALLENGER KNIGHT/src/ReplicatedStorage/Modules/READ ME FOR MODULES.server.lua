@@ -1,0 +1,3 @@
+--Hello dear teammates, I know that module scripts may be confusing so I put a legend in them and explained most 
+--of their functions. But I didnt put a comment if it's self explanatory. ESPECIALLY PLAYERSTATEMANGER, I HAD A HARD TIME UNDERSTANDING HOW IT WORKSSSSSSSSSSSSSSS. 
+--Anyways, just contact me if you need help
